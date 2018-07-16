@@ -14,22 +14,29 @@ div {
 #red {
   border-top-color: #f00;
 }
-
 #orange {
-  border-top-style: #ffa500;
+  border-top-color: #ffa500;
 }
 
 #yellow {
-  border-top-style: #ff0;
+  border-top-color: #ff0;
 }
 
 #green {
-  border-top-style: #00bc3f; 
+  border-top-color: #00bc3f; 
 }
 
+#blue {
+  border-top-color: #06f
+}
 
+#indigo {
+  border-top-color: #8a2be2;
+}
 
-
+#Violet {
+  border-top-color: #d300c9
+}
 
 
 
